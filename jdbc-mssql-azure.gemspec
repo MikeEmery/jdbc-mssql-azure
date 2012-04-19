@@ -8,8 +8,8 @@ Gem::Specification.new do |s|
   s.authors     = ["Mike Emery"]
   s.email       = ["philodoxx@gmail.com"]
   s.homepage    = ""
-  s.summary     = %q{TODO: Write a gem summary}
-  s.description = %q{TODO: Write a gem description}
+  s.summary     = %q{TODO: Microsoft provided java driver for connecting to SQL server.}
+  s.description = %q{TODO: SQL Azure wont let you connect using JTDS :( }
 
   s.rubyforge_project = "jdbc-mssql-azure"
 
