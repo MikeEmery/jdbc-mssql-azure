@@ -1,0 +1,1 @@
+rvm use jruby@jdbc-mssql-azure --create
